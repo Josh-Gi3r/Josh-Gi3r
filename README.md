@@ -1,57 +1,51 @@
-# Hi, I'm Josh 👋
+# Josh Gier
 
-I build in **stablecoins, FX, and crypto** — and I open-source what I make. Head of Growth at [Sera](https://sera.cx), building since 2015.
+**Stablecoin FX & cross-border settlement.** Head of Growth at [Sera](https://sera.cx) · building in crypto since 2015.
 
-Most of these started as real products. I stripped the branding and the secrets so you can fork them, rebrand in an afternoon, and ship. Everything here is MIT.
+I open-source the products and tools I build. Everything below is production-grade and self-hostable — extracted from real, shipped products, stripped of proprietary branding and credentials, and released under MIT.
 
-🐦 [X](https://x.com/Josh_Gier) · 💼 [LinkedIn](https://linkedin.com/in/joshgier) · 🌐 [sera.cx](https://sera.cx)
-
----
-
-## ⭐ Featured projects
-
-The ones worth forking first.
-
-📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — Self-hosted DocSend alternative: share decks as trackable links, record a Loom-style narration over each slide, and see exactly which pages got read
-
-🔗 [**linkhub**](https://github.com/Josh-Gi3r/linkhub) — Self-hosted link-in-bio & wallet business cards for your whole team — own your profiles, roster, and analytics
-
-📈 [**prediction-fx-terminal**](https://github.com/Josh-Gi3r/prediction-fx-terminal) — A self-custodial terminal: best-rate stablecoin FX across multiple desks, DeFi yield, P2P fiat ramp, and prediction markets
-
-🚀 [**launch-board**](https://github.com/Josh-Gi3r/launch-board) — A rebrandable Product-Hunt-style launch board: makers submit, the crowd browses, searches, and upvotes
+🌐 [sera.cx](https://sera.cx) &nbsp;·&nbsp; 𝕏 [@Josh_Gier](https://x.com/Josh_Gier) &nbsp;·&nbsp; in [LinkedIn](https://linkedin.com/in/joshgier)
 
 ---
 
-## 💱 Money & FX
+## ⭐ Featured
 
-> Cross-currency, stablecoins, and on-chain trading — the stuff I actually work on.
+🖥️ [**POCKET-T**](https://github.com/Josh-Gi3r/POCKET-T) — Your Mac's terminal, in any browser, anywhere. Live two-way mirroring for shells, logs, builds, and CLI agents — no SSH, no VPN, no port forwarding. ([pocket-t.ai](https://pocket-t.ai))
 
-💸 [**stablecoin-payroll**](https://github.com/Josh-Gi3r/stablecoin-payroll) — Pay a distributed / APAC team in stablecoins: inline FX, payslips, and live MY/SG statutory compliance
+📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — A self-hosted DocSend alternative: upload decks, add Loom-style per-slide narration, share trackable links, and see exactly which pages each viewer read.
 
-📲 [**tg-dex-miniapp**](https://github.com/Josh-Gi3r/tg-dex-miniapp) — A Telegram Mini App for stablecoin FX swaps, P2P money-changing, and send-by-@username — embedded wallet, no downloads
+🔗 [**linkhub**](https://github.com/Josh-Gi3r/linkhub) — A self-hosted team link-in-bio: branded profiles, canvas QR codes, Apple & Google Wallet cards, and your own geo analytics.
 
-📈 [**prediction-fx-terminal**](https://github.com/Josh-Gi3r/prediction-fx-terminal) — A self-custodial FX + prediction-market trading terminal, web and Telegram
-
----
-
-## 🧰 Builder tools
-
-> Self-hostable starters you can rebrand and run.
-
-🔗 [**linkhub**](https://github.com/Josh-Gi3r/linkhub) — Linktree for a whole team: profiles, QR codes, wallet business cards, your own analytics
-
-📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — DocSend-style document sharing with per-page read analytics and data rooms
-
-🚀 [**launch-board**](https://github.com/Josh-Gi3r/launch-board) — A Product-Hunt-style launch & voting board you can rebrand in an afternoon
-
-🪪 [**creator-storefront**](https://github.com/Josh-Gi3r/creator-storefront) — A creator marketplace: profiles, bookable services, and a fan-token economy on a DB ledger
-
-🏅 [**ambassador-kit**](https://github.com/Josh-Gi3r/ambassador-kit) — Run a community ambassador program: auditable XP from real X/Telegram activity, leaderboards, perks
-
-🕸️ [**network-graph**](https://github.com/Josh-Gi3r/network-graph) — Map your contacts as a relationship graph and trace the warmest intro path between any two people
-
-🐋 [**whale-tracker**](https://github.com/Josh-Gi3r/whale-tracker) — A drop-in dashboard for live whale (large on-chain transaction) tracking — wire your own data
+📈 [**prediction-fx-terminal**](https://github.com/Josh-Gi3r/prediction-fx-terminal) — A self-custodial web + Telegram terminal: best-rate stablecoin FX, DeFi yield, P2P fiat ramp, and prediction markets.
 
 ---
 
-_Fork anything. Build something._ 🛠️
+## 💱 Stablecoins, FX & money
+
+> Cross-currency, stablecoins, and on-chain settlement — what I work on at [Sera](https://sera.cx).
+
+💸 [**stablecoin-payroll**](https://github.com/Josh-Gi3r/stablecoin-payroll) — A multi-tenant EOR + payroll platform: pay distributed teams in stablecoins with authoritative Malaysia & Singapore statutory compliance.
+
+📲 [**tg-dex-miniapp**](https://github.com/Josh-Gi3r/tg-dex-miniapp) — A Telegram Mini App for cross-border stablecoin FX: an embedded wallet, swaps, P2P money-changing, and send-by-@username — no downloads.
+
+📈 [**prediction-fx-terminal**](https://github.com/Josh-Gi3r/prediction-fx-terminal) — Self-custodial FX + prediction-market trading, web and Telegram, in one wallet.
+
+---
+
+## 🧰 Apps & tools
+
+> Self-hostable starters extracted from real products. Rebrand and deploy.
+
+📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — DocSend-style deck sharing: upload PDF/PPTX, per-slide video narration, multi-link password/expiry controls, per-page analytics.
+
+🔗 [**linkhub**](https://github.com/Josh-Gi3r/linkhub) — Team link-in-bio with branded QR codes, Apple/Google Wallet passes, and self-hosted click + geo analytics.
+
+🚀 [**launch-board**](https://github.com/Josh-Gi3r/launch-board) — A rebrandable Product-Hunt-style launch board: submit, search, and upvote, with a pluggable Supabase / REST backend.
+
+🪪 [**creator-storefront**](https://github.com/Josh-Gi3r/creator-storefront) — A creator-economy marketplace: profiles, bookable services, and a fan-token economy with live portfolio P&L.
+
+🏅 [**ambassador-kit**](https://github.com/Josh-Gi3r/ambassador-kit) — Run a community ambassador program: auditable XP from real X / Telegram activity, leaderboards, badges, and perks.
+
+🕸️ [**network-graph**](https://github.com/Josh-Gi3r/network-graph) — An interactive D3 graph that maps who-knows-who and traces the shortest intro path between any two people.
+
+🐋 [**whale-tracker**](https://github.com/Josh-Gi3r/whale-tracker) — A self-hostable dashboard for a live feed of large on-chain transactions — one-file rebrand, pluggable data provider.
