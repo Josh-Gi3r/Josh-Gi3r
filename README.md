@@ -18,11 +18,15 @@ I open-source the products and tools I build. Everything below is production-gra
 
 📈 [**prediction-fx-terminal**](https://github.com/Josh-Gi3r/prediction-fx-terminal) — A self-custodial web + Telegram terminal: best-rate stablecoin FX, DeFi yield, P2P fiat ramp, and prediction markets.
 
+📊 [**stablecoin-intelligence**](https://github.com/Josh-Gi3r/stablecoin-intelligence) — An open-source research hub for 500+ stablecoins: A–D safety grades, reserve transparency, FX corridors, and news — plus a free public API and an MCP server so AI assistants can query graded, live data.
+
 ---
 
 ## 💱 Stablecoins, FX & money
 
 > Cross-currency, stablecoins, and on-chain settlement — what I work on at [Sera](https://sera.cx).
+
+📊 [**stablecoin-intelligence**](https://github.com/Josh-Gi3r/stablecoin-intelligence) — Open-source stablecoin intelligence: 500+ coins graded A–D on reserves, backing, and peg health, with FX corridors, news, a free public API, and an MCP AI tool server.
 
 💸 [**stablecoin-payroll**](https://github.com/Josh-Gi3r/stablecoin-payroll) — A multi-tenant EOR + payroll platform: pay distributed teams in stablecoins with authoritative Malaysia & Singapore statutory compliance.
 
