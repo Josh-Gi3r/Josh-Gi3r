@@ -1,10 +1,10 @@
 # Josh Gier
 
-**Stablecoin FX & cross-border settlement.** Head of Growth at [Sera](https://sera.cx) · building in crypto since 2015.
+**Stablecoin FX & cross-border settlement.** · building in crypto since 2015.
 
 I open-source the products and tools I build. Everything below is production-grade and self-hostable — extracted from real, shipped products, stripped of proprietary branding and credentials, and released under MIT.
 
-🌐 [sera.cx](https://sera.cx) &nbsp;·&nbsp; 𝕏 [@Josh_Gier](https://x.com/Josh_Gier) &nbsp;·&nbsp; in [LinkedIn](https://linkedin.com/in/joshgier)
+𝕏 [@Josh_Gier](https://x.com/Josh_Gier) &nbsp;·&nbsp; in [LinkedIn](https://linkedin.com/in/joshgier)
 
 ---
 
