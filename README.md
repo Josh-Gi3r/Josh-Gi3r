@@ -24,7 +24,7 @@ I open-source the products and tools I build. Everything below is production-gra
 
 ## 💱 Stablecoins, FX & money
 
-> Cross-currency, stablecoins, and on-chain settlement — what I work on at [Sera](https://sera.cx).
+> Cross-currency, stablecoins, and on-chain settlement
 
 📊 [**stablecoin-intelligence**](https://github.com/Josh-Gi3r/stablecoin-intelligence) — Open-source stablecoin intelligence: 500+ coins graded A–D on reserves, backing, and peg health, with FX corridors, news, a free public API, and an MCP AI tool server.
 
