@@ -10,7 +10,7 @@ I open-source the products and tools I build. Everything below is production-gra
 
 ## ⭐ Featured
 
-🖥️ [**POCKET-T**](https://github.com/Josh-Gi3r/POCKET-T) — Your Mac's terminal, in any browser, anywhere. Live two-way mirroring for shells, logs, builds, and CLI agents — no SSH, no VPN, no port forwarding. ([pocket-t.ai](https://pocket-t.ai))
+🐝 [**buzz**](https://github.com/Josh-Gi3r/buzz) — My fork of Block's Buzz with **Preview Studio**: live, responsive previews and local review for agent-built work. Build a website, app, deck, image, or video and see what you're creating as you create it.
 
 📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — A self-hosted DocSend alternative: upload decks, add Loom-style per-slide narration, share trackable links, and see exactly which pages each viewer read.
 
