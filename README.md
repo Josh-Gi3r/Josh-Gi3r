@@ -28,6 +28,8 @@ I open-source the products and tools I build. Everything below is production-gra
 
 > Cross-currency, stablecoins, and on-chain settlement
 
+💳 [**blueballs**](https://github.com/Josh-Gi3r/blueballs) — Open-source infrastructure for launching your own stablecoin-powered card and payments stack. Self-hostable, non-custodial, and built for real-world spending with stablecoin FX and settlement. Powers blueballs.tech.
+
 📊 [**stablecoin-intelligence**](https://github.com/Josh-Gi3r/stablecoin-intelligence) — Open-source stablecoin intelligence: 500+ coins graded A–D on reserves, backing, and peg health, with FX corridors, news, a free public API, and an MCP AI tool server.
 
 💸 [**stablecoin-payroll**](https://github.com/Josh-Gi3r/stablecoin-payroll) — A multi-tenant EOR + payroll platform: pay distributed teams in stablecoins with authoritative Malaysia & Singapore statutory compliance.
