@@ -10,6 +10,8 @@ I open-source the products and tools I build. Everything below is production-gra
 
 ## ⭐ Featured
 
+💳 [**blueballs**](https://github.com/Josh-Gi3r/blueballs) — Open-source infrastructure for launching your own stablecoin-powered card and payments stack. Self-hostable, non-custodial, and built for real-world spending with stablecoin FX and settlement. Powers blueballs.tech.
+
 🐝 [**buzz**](https://github.com/Josh-Gi3r/buzz) — My fork of Block's Buzz with **Preview Studio**: live, responsive previews and local review for agent-built work. Build a website, app, deck, image, or video and see what you're creating as you create it.
 
 📑 [**docshare**](https://github.com/Josh-Gi3r/docshare) — A self-hosted DocSend alternative: upload decks, add Loom-style per-slide narration, share trackable links, and see exactly which pages each viewer read.
